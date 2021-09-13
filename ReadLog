@@ -1,6 +1,12 @@
 https://youtu.be/jME4-T_hfhQ?t=917
 https://www.youtube.com/watch?v=jME4-T_hfhQ&t=917s
 https://youtu.be/jME4-T_hfhQ?t=2296
+https://youtu.be/jME4-T_hfhQ?t=2801
+https://youtu.be/jME4-T_hfhQ?t=3241
+https://youtu.be/jME4-T_hfhQ?t=3521 Кратко работа с изображением (пропущено)
+https://youtu.be/jME4-T_hfhQ?t=4066
+    https://youtu.be/jME4-T_hfhQ?t=4541 Создали товары, перешли в shell !!!!!
+    https://youtu.be/jME4-T_hfhQ?t=7668 Пропуск изображения. Продолжаем отсюда Model View Template
 
 #Стратуем django-admin.py startproject shop    отзыв PycharmProjects/shop/venv/bin/django-admin.py:17: RemovedInDjango40Warning: django-admin.py is deprecated in favor of django-admin.
 #python manage.py startapp mainapp
