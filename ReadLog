@@ -1,0 +1,10 @@
+https://youtu.be/jME4-T_hfhQ?t=917
+https://www.youtube.com/watch?v=jME4-T_hfhQ&t=917s
+https://youtu.be/jME4-T_hfhQ?t=2296
+
+#Стратуем django-admin.py startproject shop    отзыв PycharmProjects/shop/venv/bin/django-admin.py:17: RemovedInDjango40Warning: django-admin.py is deprecated in favor of django-admin.
+#python manage.py startapp mainapp
+#settings.py регистрируем в shop\shop\shop\INSTALLED_APPS 'mainapp'
+#python manage.py makemigrations
+#python manage.py migrate
+#python manage.py createsuperuser
