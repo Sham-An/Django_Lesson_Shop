@@ -7,10 +7,12 @@ https://youtu.be/jME4-T_hfhQ?t=3521 Кратко работа с изображ�
 https://youtu.be/jME4-T_hfhQ?t=4066
     https://youtu.be/jME4-T_hfhQ?t=4541 Создали товары, перешли в shell !!!!!
     https://youtu.be/jME4-T_hfhQ?t=7668 Пропуск изображения. Продолжаем отсюда Model View Template
+https://youtu.be/jME4-T_hfhQ?t=8520
+https://youtu.be/jME4-T_hfhQ?t=8686 наследование в шаблонах
 
 #Стратуем django-admin.py startproject shop    отзыв PycharmProjects/shop/venv/bin/django-admin.py:17: RemovedInDjango40Warning: django-admin.py is deprecated in favor of django-admin.
 #python manage.py startapp mainapp
-#settings.py регистрируем в shop\shop\shop\INSTALLED_APPS 'mainapp'
+#settings.py регистрируем в shop\shop\shop\settings.py INSTALLED_APPS 'mainapp'
 #python manage.py makemigrations
 #python manage.py migrate
 #python manage.py createsuperuser
